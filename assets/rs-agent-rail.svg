@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="1024" height="1024" shape-rendering="geometricPrecision" role="img" aria-label="Rs-Agent Button">
+  <rect x="16" y="16" width="96" height="96" rx="22" fill="#ffffff"/>
+  <path
+    fill="none"
+    stroke="#0d1117"
+    stroke-width="14"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    d="M 64 40 L 88 64 L 64 88 L 40 88"
+  />
+</svg>
